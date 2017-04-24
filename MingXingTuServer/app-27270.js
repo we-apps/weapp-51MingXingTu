@@ -82,7 +82,7 @@ app.get('/', function(req, res){
 //     });
 // });
 
-app.get('/girls', function(req, res){
+app.get('/pic', function(req, res){
     console.log("get pic");
     var type = req.query.type;
     // console.log("type: " + type);

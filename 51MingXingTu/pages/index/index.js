@@ -49,7 +49,7 @@ Page({
         var that = this
         //请求数据
         wx.request({
-          url:app.globalData.api.dbmeizhiurl+"girls"+"?type="+type,
+          url:app.globalData.api.dbmeizhiurl+"pic"+"?type="+type,
           success:function(ret){
             ret = ret['data']
             if(ret['code'] == 0 ){

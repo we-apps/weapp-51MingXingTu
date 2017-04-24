@@ -19,7 +19,7 @@
     margin: 20rpx 10rpx;
 }
 .type-item-show{
-    background-color: #BE304D;
+    background-color: #FF88C2;
     color:#ffffff;
 }
 .type-item-hide{
