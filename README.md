@@ -4,9 +4,10 @@ weapp-51Meizhitu
 ### Installation & Development
 
 1. clone this repo: `git clone https://github.com/Alex-0407/weapp-51MingXingTu.git`
-2. `cd ionic2-tabs`
+2. `cd MingXingTuServer`
 3. `npm install`
-4. run `ionic serve` from a terminal
+4. run `node app-27270.js` from a terminal
+5. open the link `http://localhost:8080/pic` and `http://localhost:8080/detail` in the broswer
 
 ### 项目截图:
 
