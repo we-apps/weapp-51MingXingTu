@@ -1,5 +1,6 @@
-# weapp-51Meizhitu
-weapp-51Meizhitu
+# weapp-51MingXingTu
+
+weapp-51MingXingTu
 
 ### Installation & Development
 
@@ -8,6 +9,10 @@ weapp-51Meizhitu
 3. `npm install`
 4. run `node app-27270.js` from a terminal
 5. open the link `http://localhost:8080/pic` and `http://localhost:8080/detail` in the broswer
+
+说明：以上是服务端运行步骤。抓取的数据是网址 http://www.27270.com/star/ 中明星酷里面的图片，只抓取了第一页的数据。
+
+怎么抓取所有分页数据呢？
 
 ### 项目截图:
 
