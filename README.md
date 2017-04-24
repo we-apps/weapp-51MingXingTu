@@ -3,25 +3,22 @@ weapp-51Meizhitu
 
 ### Installation & Development
 
-1. clone this repo: `git clone git@github.com:Alex-0407/ionic2-tabs.git`
+1. clone this repo: `git clone https://github.com/Alex-0407/weapp-51MingXingTu.git`
 2. `cd ionic2-tabs`
 3. `npm install`
 4. run `ionic serve` from a terminal
 
 ### 项目截图:
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/1.PNG" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/1.PNG" width="320px" style="display:inline;">
     
-<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/2.PNG" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/2.PNG" width="320px" style="display:inline;">
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/3.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/4.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/5.PNG" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/3.PNG" width="320px" style="display:inline;">
 
 ### 项目地址：
-https://github.com/Alex-0407/ionic2-tabs
+https://github.com/Alex-0407/weapp-51MingXingTu
+
 
 ### 新浪云活动
 
