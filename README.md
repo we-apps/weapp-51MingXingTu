@@ -14,6 +14,10 @@ weapp-51MingXingTu
 
 怎么抓取所有分页数据呢？
 
+### 动态图
+
+![动态图](https://github.com/zyramedia/ionic2-super-tabs-example/blob/master/example.gif?raw=true)
+
 ### 项目截图:
 
 <img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/1.PNG" width="320px" style="display:inline;">
