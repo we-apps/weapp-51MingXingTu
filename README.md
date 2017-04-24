@@ -1,6 +1,28 @@
 # weapp-51Meizhitu
 weapp-51Meizhitu
 
+### Installation & Development
+
+1. clone this repo: `git clone git@github.com:Alex-0407/ionic2-tabs.git`
+2. `cd ionic2-tabs`
+3. `npm install`
+4. run `ionic serve` from a terminal
+
+### 项目截图:
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/1.PNG" width="320px" style="display:inline;">
+    
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/2.PNG" width="320px" style="display:inline;">
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/3.PNG" width="320px" style="display:inline;">
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/4.PNG" width="320px" style="display:inline;">
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/5.PNG" width="320px" style="display:inline;">
+
+### 项目地址：
+https://github.com/Alex-0407/ionic2-tabs
+
 ### 新浪云活动
 
 新浪云平台Sina App Engine(SAE)，是由新浪公司开发和运营的开放云计算平台的核心组成部分，国内第一家公有云计算平台，可以为网站开发者，App开发者提供稳定、快捷、透明、可控的服务化的平台，并且减少开发者的开发和维护成本。
