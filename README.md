@@ -18,13 +18,6 @@ weapp-51MingXingTu
 
 ![动态图](https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/mingxing.gif?raw=true)
 
-### 项目截图:
-
-<img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/1.PNG" width="320px" style="display:inline;">
-    
-<img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/2.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/3.PNG" width="320px" style="display:inline;">
 
 ### 项目地址：
 https://github.com/Alex-0407/weapp-51MingXingTu
