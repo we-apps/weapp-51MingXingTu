@@ -14,7 +14,7 @@ weapp-51MingXingTu
 
 怎么抓取所有分页数据呢？
 
-### 动态图
+### 效果预览
 
 ![动态图](https://github.com/Alex-0407/weapp-51MingXingTu/blob/master/51MingXingTu/image/mingxing.gif?raw=true)
 
