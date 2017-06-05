@@ -10,6 +10,13 @@ Page({
     currentType:wx.getStorageSync('currentType'),
     types:[]
   },
+  onShareAppMessage: function () {
+    return { 
+      title: '51明星图',
+      desc: '帅锅美女明星一网打尽，快来看看吧。', 
+      path: 'pages/index/index' 
+    }
+  },
   //加载第一个类型的列表
   onLoad:function(){
     this.setData({
@@ -49,7 +56,7 @@ Page({
         var that = this
         //请求数据
         wx.request({
-          url:app.globalData.api.dbmeizhiurl+"pic"+"?type="+type,
+          url:app.globalData.api.mingxingurl+"pic"+"?type="+type,
           success:function(ret){
             ret = ret['data']
             if(ret['code'] == 0 ){
@@ -103,13 +110,13 @@ Page({
     wx.navigateTo({
       url:url,
       success: function(res){
-        console.log('跳转到news页面成功')// success
+        console.log('跳转到album页面成功')// success
       },
       fail: function() {
-      console.log('跳转到news页面失败')  // fail
+      console.log('跳转到album页面失败')  // fail
       },
       complete: function() {
-        console.log('跳转到news页面完成') // complete
+        console.log('跳转到album页面完成') // complete
       }
     })
   }

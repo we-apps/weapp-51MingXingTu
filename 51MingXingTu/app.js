@@ -33,7 +33,7 @@ App({
         var that = this
         //请求数据
         wx.request({
-          url:this.globalData.api.dbmeizhiurl+"tags",
+          url:this.globalData.api.mingxingurl+"tags",
           success:function(ret){
             ret = ret['data']
             if(ret['code'] == '0' ){
@@ -54,10 +54,8 @@ App({
   },
   globalData:{
     api:{
-      listBaseUrl:"https://route.showapi.com/959-1?showapi_appid=25744&showapi_sign=f3807528bd5d4a4ea6b2027e8286e0dc&type=",
-      albumBaseurl:"https://route.showapi.com/959-2?id=%id%&showapi_appid=25744&showapi_sign=f3807528bd5d4a4ea6b2027e8286e0dc",
-      dbmeizhiurl:"http://localhost:8080/",
-      meizhiurl:"http://meizhitu.applinzi.com/",
+      // mingxingurl:"http://localhost:8080/",
+      mingxingurl:"https://51mingxingtu.applinzi.com/",
     },
     currentType:'',
      types:[

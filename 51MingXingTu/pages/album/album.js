@@ -9,6 +9,13 @@ Page({
         countShow:true,
         currentIndex:1
     },
+    onShareAppMessage: function () {
+      return { 
+        title: '51明星图',
+        desc: '帅锅美女明星一网打尽，快来看看吧。', 
+        path: 'pages/index/index' 
+      }
+    },
     onLoad:function(options){
         this.setData({
             title:options.title,
@@ -18,7 +25,7 @@ Page({
         //请求数据
         var that = this
         wx.request({
-        url:app.globalData.api.dbmeizhiurl+"detail"+"?d="+this.data.id,
+        url:app.globalData.api.mingxingurl+"detail"+"?d="+this.data.id,
           success:function(ret){
             ret = ret['data']
             if(ret['code'] == 0){
